@@ -102,6 +102,8 @@ export const websiteConfig = {
 	address: "London & Essex",
 	servicesDescriptionCopy: "Domestic & Commercial Electrical Services",
 
+	googleMapEmbedUrl: "",
+
 	services: [
 		{
 			name: "Fuse Board Upgrades",
@@ -156,6 +158,8 @@ export const websiteConfig = {
 		Saturday: "9am - 2pm",
 		Sunday: "Emergency calls only"
 	},
+
+	businessPlaceId: "add here",
 
 	landingPageImages: [
 		GalleryImage1, GalleryImage2, GalleryImage3,
@@ -226,13 +230,13 @@ export default function HomePage () {
 			}}
 		>
 			<div className="text-sm full pd-05">
-				Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus labore ab adipisci molestiae fugiat! Error quam tempore iste velit! Rem!
+				Reliable Electrical Work You Can Trust
 			</div>
 			<div className="text-sm full pd-05">
-				Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio iste soluta, ratione assumenda nihil quasi doloremque sint minima! Vel, iste quas? Cumque fugit doloremque quos dignissimos libero iusto culpa suscipit veniam. Animi distinctio cumque facilis veritatis voluptate atque, libero saepe.
+				PA Electrix provides professional electrical services across London & Essex for homeowners, landlords, and businesses looking for safe, high-quality workmanship. From consumer unit upgrades and lighting installations to full rewires and fault finding, every job is completed to current regulations with care and attention to detail.
 			</div>
 			<div className="text-sm full pd-05">
-				Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos quam animi odit, exercitationem nostrum, impedit minus repudiandae totam repellat quibusdam maiores, dignissimos consequuntur veritatis quae tenetur vitae natus eius! Delectus sed facilis labore nemo eum sapiente iusto tempore consequuntur magni quo alias ea iste libero perspiciatis quisquam eaque dicta, soluta blanditiis facere quam vel? Deleniti iure atque eos impedit! Amet!
+				Built on reliability, honesty, and tidy workmanship, PA Electrix focuses on delivering dependable results at fair prices. Whether it's a small repair or a full installation project, customers can expect straightforward advice, professional service, and electrical work completed properly from start to finish.
 			</div>
 		</CustomSection>
 		
